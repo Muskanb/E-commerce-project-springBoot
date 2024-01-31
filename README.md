@@ -87,6 +87,8 @@ Right click project and run as spring boot & open:- http://localhost:8080/
 <h4> MVC WorkFlow: </h4>
     → in the Admincontroller.java & userController.java files having a mapping based function which returns file name.<br>
     → in Src->main->webapp->views  following Jsp file will be executing.
+test8
+test13
 
 ## log in 
 ADMIN Module (http://localhost:8080/admin) 
