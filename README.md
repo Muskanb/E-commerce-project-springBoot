@@ -1,23 +1,78 @@
 # E-commerce_website-in-java
 
 
+# faat mat jana
+# The chnage we all need in out lives
+#test1
+#test1
 ## E - COMMERCE WEB PROJECT IN SPRING BOOT
-
-
-
+---< test2
+----- test3
+------ test 6
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![Isses][issues-shield]][issues-url]
+test2
+test2
+test2
+#test7
+#test7
+#test7
+#test7
+#test7
+#test7
 
+
+
+HI Hello By bye 
+#test7
+#test7
+#test7#test7#test7#test7#test7#test7#test7
+test4
+-->
+-->
+----->> test 1
+----->> test 1
+----->> test 2
+----->> test 3
+<----- Test18 ----------->
+ ----->> test 2
+ ----->> test 5
+test9
+test10
+----->> test 1
+----->> test 5
+----->> test 9
+----->> test 4
+----->> test 4
+test8
+test13
+test11
 -->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <br>
 
+----> tes
 
+## How To Run ?
+----->> test 5
+----->> test 9
+----->> test 4
+t10 <-------
+_____>
+------> test13 <--------
+#test7#test7#test7#test7#test7
+----->
+---->
+------>
+----->
+----------->
+----->> test 1
 
-
+test8
+test13
 ## Features
 - ⚙️Spring Mvc, JDBC , Jsp Servlet
 - 📝ADMIN MODULE + USER MODULE
@@ -26,7 +81,7 @@
 - 🥳Pull Request Welcome (Open Source).
 
 
-
+## How To Run ?
 
 ## How To Run ?
 
@@ -51,14 +106,18 @@ Download and import project in Eclipse Ide
 
 (4)
 ```sh
+
+''''
 Right click project and run as spring boot & open:- http://localhost:8080/
 ```
-
+----->> test 1----->> test 1----->> test 1----->> test 1
 ## project directory 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/81226571/178137751-c02d40b5-e718-4aad-816a-f45807612e5c.png">
 <h4> MVC WorkFlow: </h4>
     → in the Admincontroller.java & userController.java files having a mapping based function which returns file name.<br>
     → in Src->main->webapp->views  following Jsp file will be executing.
+test8
+test13
 
 ## log in 
 ADMIN Module (http://localhost:8080/admin) 
@@ -77,13 +136,13 @@ ADMIN Module (http://localhost:8080/admin)
 - instagram:- [https://instagram.com/jay_gajera_17]
 
 
-## preview
+## preview----->> test 1----->> test 1----->> test 1----->> test 1
 ![img](https://github.com/jaygajera17/E-commerce_website-in-java/blob/main/JtProject/src/main/resources/Product%20Images/Screenshot%202022-04-11%20111601.jpg)
 ![img](https://github.com/jaygajera17/E-commerce_website-in-java/blob/main/JtProject/src/main/resources/Product%20Images/Screenshot%202022-04-11%20111538.jpg)
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/81226571/178270030-c4e9f485-fe0b-4bbb-804a-a28d2c182c7c.png">
 
 
-
+----->> test 1
 - **Star++** ⭐  if you  find helpful.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 <h3 align="left">If you found this valuable and want to return the favour, then</h3>
@@ -101,6 +160,21 @@ ADMIN Module (http://localhost:8080/admin)
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:  https://www.linkedin.com/in/jay-gajera-a6496b204/
-
+----->> test 1----->> test 1----->> test 1----->> test 1----->> test 1----->> test 1
 [youtube-shield]:https://img.shields.io/youtube/views/c6WWdINWSlI?style=social
 [youtube-url]:  https://youtu.be/c6WWdINWSlI
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1
+----->> test 1----->> test 1----->> test 1----->> test 1
+
+
+
+----->> test 1----->> test 1
